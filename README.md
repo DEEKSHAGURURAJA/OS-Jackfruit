@@ -228,45 +228,58 @@ sudo dmesg | tail -20
 
 ### 1. Project Folder Structure
 
+<img width="1919" height="279" alt="image" src="https://github.com/user-attachments/assets/21c73553-7a9e-4669-8eab-7c465082e6e3" />
 
 
 ### 2. Kernel Module Compilation
 
+<img width="1795" height="570" alt="image" src="https://github.com/user-attachments/assets/f5886cbb-3d80-4cc4-8f32-2bd87e3ea0d4" />
 
 
 ### 3. Loading Kernel Module
 
+<img width="1761" height="327" alt="image" src="https://github.com/user-attachments/assets/aa4350b4-50c4-44ff-8dba-cfb33fae4f12" />
 
 
 ### 4. Supervisor Startup
 
+<img width="1725" height="216" alt="image" src="https://github.com/user-attachments/assets/0ef21e76-301c-41c3-8136-bf84f62b2121" />
 
 
 ### 5. Starting Alpha Container
 
+<img width="1868" height="186" alt="image" src="https://github.com/user-attachments/assets/8841c058-d841-4581-a832-0309ed17ba0e" />
 
 
 ### 6. Starting Beta Container
 
+<img width="1919" height="124" alt="image" src="https://github.com/user-attachments/assets/e109d198-2d73-4450-a073-888761751335" />
 
 
 ### 7. Container List (`ps`)
+<img width="1792" height="485" alt="image" src="https://github.com/user-attachments/assets/aada6b33-2c61-47b5-80ff-f54a008b3b0f" />
 
 
 
 ### 8. Viewing Logs
 
+<img width="1595" height="687" alt="image" src="https://github.com/user-attachments/assets/68d1a8cd-aeff-4972-8d60-324236ee0d8c" />
 
 
 ### 9. Memory Limit Trigger from Kernel Module
 
+<img width="1902" height="520" alt="image" src="https://github.com/user-attachments/assets/29e9d0b2-fd0c-4b58-bd33-2a5e9c18ffcf" />
 
 
 ### 10. Stopping Container
 
+<img width="1823" height="258" alt="image" src="https://github.com/user-attachments/assets/4a751a25-31fd-45b2-81da-568d43451855" />
+<img width="495" height="646" alt="image" src="https://github.com/user-attachments/assets/863c522a-0165-4b3a-a6f4-925f11e5668d" />
+
 
 
 ### 11. Final Cleanup
+<img width="1812" height="283" alt="image" src="https://github.com/user-attachments/assets/42286848-2190-4dab-bf75-428217f3194b" />
 
 
 
